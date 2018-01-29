@@ -15,4 +15,6 @@ Depth First search(DFS) is used for searching.
 
 ![untitled1](https://user-images.githubusercontent.com/13069229/35493079-4ad31694-0476-11e8-9f85-7cdf4d5ed0c6.jpg)
 
+![untitled2](https://user-images.githubusercontent.com/13069229/35493111-8c0a4d30-0476-11e8-80a9-f0518fa6cb29.jpg)
 
+![untitled3](https://user-images.githubusercontent.com/13069229/35493115-92309610-0476-11e8-91aa-5081968ba692.jpg)
