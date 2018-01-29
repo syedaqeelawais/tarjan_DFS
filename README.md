@@ -11,4 +11,6 @@ It uses two indexes,
 
 Depth First search(DFS) is used for searching.
 
+## Example
+
 
