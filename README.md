@@ -18,3 +18,7 @@ Depth First search(DFS) is used for searching.
 ![untitled2](https://user-images.githubusercontent.com/13069229/35493111-8c0a4d30-0476-11e8-80a9-f0518fa6cb29.jpg)
 
 ![untitled3](https://user-images.githubusercontent.com/13069229/35493115-92309610-0476-11e8-91aa-5081968ba692.jpg)
+
+The time complexity for Tarjan’s strongly connected components is time bound linear in V and E.
+
+Tarjan uses only one DFS which makes it more faster
